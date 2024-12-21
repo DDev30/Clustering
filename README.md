@@ -28,7 +28,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 ## Usage
 1. Clone this repository and navigate to the project directory:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/DDev30/Clustering.git>
    cd clustering_project
    ```
 
